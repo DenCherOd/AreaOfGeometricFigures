@@ -2,7 +2,7 @@ package iterator;
 
 public class Main {
     public static void main(String[] args) {
-        int [][] arr = {
+        int[][] arr = {
                 {1, 2, 3},
                 {1, 3, 7},
                 {2, 2, 3, 6}

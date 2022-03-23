@@ -10,8 +10,8 @@ public class Iterator {
     int currentIndex = 0;
 
     public Iterator(int[][] arr) {
-        for (int [] intArr : arr){
-            for (int finalInt : intArr){
+        for (int[] intArr : arr) {
+            for (int finalInt : intArr) {
                 list.add(finalInt);
             }
         }
